@@ -182,3 +182,39 @@ Received Import Request.
   path: Assets/Assets/ReferenceImageLibrary.asset
   artifactKey: Guid(a14056b784674264194435ad197a2083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Assets/ReferenceImageLibrary.asset using Guid(a14056b784674264194435ad197a2083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc21873601004b2bfd72b5b43260f485') in 0.063631 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4508.817131 seconds.
+  path: Assets/Assets/ReferenceImageLibrary.asset
+  artifactKey: Guid(a14056b784674264194435ad197a2083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/ReferenceImageLibrary.asset using Guid(a14056b784674264194435ad197a2083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'accebeb157a6b540c2fefd2342d45c07') in 0.096228 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 290.089530 seconds.
+  path: Packages/com.unity.xr.arfoundation/package.json
+  artifactKey: Guid(08e6a1d1bc87fb6408c3e916a260691b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.arfoundation/package.json using Guid(08e6a1d1bc87fb6408c3e916a260691b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5ec08bbb6b157657291f930742498c7') in 0.107582 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.999752 seconds.
+  path: Packages/com.unity.xr.arcore/package.json
+  artifactKey: Guid(96d3d50e9dd0d654c90f6f35bb673559) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.arcore/package.json using Guid(96d3d50e9dd0d654c90f6f35bb673559) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa2ab238635690ab4fd27a088ef4060f') in 0.011295 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 695.129480 seconds.
+  path: Assets/ExampleAssets/Prefabs/ARPlane.prefab
+  artifactKey: Guid(3738bd65ede154463b2c35064b9e5fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Prefabs/ARPlane.prefab using Guid(3738bd65ede154463b2c35064b9e5fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '486aa4e59fadedc246e0233795cc1612') in 0.481892 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/ExampleAssets/Prefabs/CubeObject.prefab
+  artifactKey: Guid(fe573e7abb8af466791f07600c0785e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Prefabs/CubeObject.prefab using Guid(fe573e7abb8af466791f07600c0785e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8084d8bba0e7fef36778f7a105713f0') in 0.894800 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Packages/com.unity.xr.legacyinputhelpers/Prefabs/XRRig.prefab
+  artifactKey: Guid(c116b7497ab8ca34c9188965d4295e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.legacyinputhelpers/Prefabs/XRRig.prefab using Guid(c116b7497ab8ca34c9188965d4295e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '371f64f626853adafa02d3858613cc69') in 0.070420 seconds 
