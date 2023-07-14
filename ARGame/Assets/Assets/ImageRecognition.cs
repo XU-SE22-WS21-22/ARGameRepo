@@ -20,7 +20,9 @@ private void Awake()
 
     foreach (GameObject prefab in placeablePrefabs)
     {
-        GameObject newPrefab = Instantiate(prefab, Vector3.zero, Quaternion.identity);
+        Vector3 position = Vector3.zero;
+
+        GameObject newPrefab = Instantiate(prefab, position, Quaternion.identity);
         newPrefab.name = prefab.name;
         spawnedPrefabs.Add(prefab.name, newPrefab);
     }
@@ -54,12 +56,14 @@ private void UpdateImage(ARTrackedImage trackedImage) {
 
     string name = trackedImage.referenceImage.name;
     Vector3 position = trackedImage.transform.position;
+    Quaternion targetRotation = Quaternion.Euler(-90f, 0f, 0f);
 
     foreach(GameObject go in spawnedPrefabs.Values) {
         if(go.name != name) {
             go.SetActive(false);
         }else {
             go.transform.position = position;
+            go.transform.rotation = targetRotation;
             go.SetActive(true);
         }
     }
